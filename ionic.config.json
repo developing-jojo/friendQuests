@@ -1,0 +1,7 @@
+{
+  "name": "friendsquest",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
